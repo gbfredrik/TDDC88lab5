@@ -22,7 +22,7 @@ package net.sf.freecol;
 import java.util.Locale;
 
 import junit.extensions.TestSetup;
-import junit.framework.Test;
+import junit.frameworkt;
 import junit.framework.TestSuite;
 
 
