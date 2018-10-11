@@ -19,7 +19,7 @@
 
 package net.sf.freecol;
 
-import java.util.Locale;
+java.util.Locale;
 
 import junit.extensions.TestSetup;
 import junit.frameworkt;
